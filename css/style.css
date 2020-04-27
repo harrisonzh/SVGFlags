@@ -1,0 +1,103 @@
+body {
+  font-family: sans-serif;
+  background-color: lightgray;
+}
+
+/*Ireland*/
+svg:first-of-type> rect:first-of-type{
+    fill: rgb(13,98,43);
+}
+svg:first-of-type> rect:nth-of-type(2){
+    fill: rgb(255,255,255);
+}
+svg:first-of-type> rect:nth-of-type(3){
+    fill: rgb(223,78,7);
+}
+
+/*Niger*/
+svg:nth-of-type(2)> rect:first-of-type{
+    fill: rgb(232,85,12);
+}
+svg:nth-of-type(2)> rect:nth-of-type(2){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(2)> rect:nth-of-type(3){
+    fill: rgb(22,133,65);
+}
+svg:nth-of-type(2)> circle{
+    fill: rgb(232,85,12);
+}
+
+/*France*/
+svg:nth-of-type(3)> rect:first-of-type{
+    fill: rgb(9,0,80);
+}
+svg:nth-of-type(3)> rect:nth-of-type(2){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(3)> rect:nth-of-type(3){
+    fill: rgb(202,0,20);
+}
+
+/*Sweden*/
+svg:nth-of-type(4)> rect:first-of-type{
+    fill: rgb(12,61,149);
+}
+svg:nth-of-type(4)> rect:nth-of-type(2){
+    fill: rgb(255,239,15);
+}
+svg:nth-of-type(4)> rect:nth-of-type(3){
+    fill: rgb(255,239,15);
+}
+
+/*The Solomon Islands*/
+svg:nth-of-type(5)> rect:first-of-type{
+    fill: rgb(26,133,65);
+}
+svg:nth-of-type(5)> rect:nth-of-type(2){
+    fill: rgb(255,239,15);
+}
+svg:nth-of-type(5)> polygon:first-of-type{
+    fill: rgb(8,25,122);
+}
+svg:nth-of-type(5)> polygon:nth-of-type(2){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(5)> polygon:nth-of-type(3){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(5)> polygon:nth-of-type(4){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(5)> polygon:nth-of-type(5){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(5)> polygon:nth-of-type(6){
+    fill: rgb(255,255,255);
+}
+
+/*Liberia*/
+svg:nth-of-type(6)> rect:first-of-type{
+    fill: rgb(211,0,20);
+}
+svg:nth-of-type(6)> rect:nth-of-type(2){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(6)> rect:nth-of-type(3){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(6)> rect:nth-of-type(4){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(6)> rect:nth-of-type(5){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(6)> rect:nth-of-type(6){
+    fill: rgb(255,255,255);
+}
+svg:nth-of-type(6)> rect:nth-of-type(7){
+    fill: rgb(9,1,58);
+}
+svg:nth-of-type(6)> polygon{
+    fill: rgb(255,255,255);
+}
